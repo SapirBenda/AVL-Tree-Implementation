@@ -1,2 +1,2 @@
 # AVL-Tree-Implementation
-Implement an AVL Tree
+Implement an AVL tree
